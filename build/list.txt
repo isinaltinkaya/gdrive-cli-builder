@@ -1,2 +1,9 @@
 linux/amd64
 linux/386
+inux/arm
+linux/arm64
+linux/ppc64
+linux/ppc64le
+linux/mips64
+linux/mips64le
+linux/rpi
